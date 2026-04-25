@@ -91,14 +91,17 @@ The project is deployed as an interactive web application where users can:
 
 ## 📂 Dataset
 
-- Knee X-ray datasets from Kaggle  
+- Knee X-ray datasets from Kaggle
+  *https://www.kaggle.com/datasets/866059b7930a5c49cd77d94c1761840a19d88074cad74e8f0e0cfa2b236a6904*
+  *https://www.kaggle.com/datasets/sachinkumar413/Osteoporosis-knee-dataset-preprocessed128x256*
+  *https://www.kaggle.com/datasets/mrmann007/Osteoporosis*
+  *https://www.kaggle.com/datasets/stevepython/Osteoporosis-knee-xray-dataset*
 - Clinical dataset (CSV) with features like:
   - Age, Gender  
   - Calcium & Vitamin D intake  
   - Physical activity  
-  - Medical history  
-
-*(Add dataset links here)*
+  - Medical history
+  *https://www.kaggle.com/datasets/amitvkulkarni/lifestyle-factors-influencing-osteoporosis*
 
 ---
 
